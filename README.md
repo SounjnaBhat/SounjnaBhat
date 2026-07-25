@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=SounjnaBhat&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -104,39 +104,7 @@
 | 🍀 **GreenChain** | Food redistribution platform built with Next.js, Node.js & Supabase |
 | 🏛 **Smart Queue Management** | AI waiting-time prediction system using Computer Vision |
 
----
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SounjnaBhat&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SounjnaBhat&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounjnaBhat&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SounjnaBhat&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 # 💡 Quote
 
