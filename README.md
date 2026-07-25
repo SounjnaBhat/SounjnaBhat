@@ -8,10 +8,7 @@
 
 </div>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SounjnaBhat&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
+<p align="center"> <a href="https://github.com/SounjnaBhat"> <img src="https://komarev.com/ghpvc/?username=suhasshetti02&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" /> </a> </p>
 ---
 
 # 👩‍💻 About Me
