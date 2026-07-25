@@ -4,148 +4,103 @@
 
 ### 🚀 AI & Full Stack Developer | Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence;Full+Stack+Development;Computer+Vision;Building+Real+World+Projects" />
-
-<img src="https://komarev.com/ghpvc/?username=SounjnaBhat&label=Profile%20Views&color=0077B5&style=for-the-badge"/>
+*Building intelligent solutions using AI, Machine Learning and Full Stack technologies.*
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## 👩‍💻 About Me
 
 🎓 Computer Science Engineering Student
 
-💻 Passionate about building intelligent applications using **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**.
+💻 Passionate about developing intelligent applications using Artificial Intelligence, Machine Learning, and Full Stack technologies.
 
 🌱 **Currently Learning**
-
 - Data Structures & Algorithms
 - Machine Learning
 - Backend Development
 - Cloud Computing
 
 🎯 **Areas of Interest**
-
 - Artificial Intelligence
 - Computer Vision
 - Full Stack Development
 
 📫 **Email:** **bhatsounjna@gmail.com**
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SounjnaBhat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 💻 Tech Stack
-
-<div align="center">
+## 💻 Tech Stack
 
 ### Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql"/>
+</p>
 
 ### Frontend
 
+<p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css"/>
+</p>
 
 ### Backend
 
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi"/>
+</p>
 
 ### AI / ML
 
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow"/>
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 
-### Databases & Tools
+<img src="https://img.shields.io/badge/MediaPipe-34A853?style=flat-square"/>
+</p>
 
+### Database & Tools
+
+<p>
 <img src="https://skillicons.dev/icons?i=sqlite,supabase,git,github,vscode,postman"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🚀 Featured Projects
 
 ### 🤟 SignSpeak
 
-AI-powered gesture recognition system for hospital patients using **MediaPipe**, **TensorFlow**, and **OpenCV**.
+AI-powered gesture recognition system that enables hospital patients to communicate with doctors, nurses, and family members using hand gestures.
 
-**Tech Stack**
+**Tech Stack:** Python • Flask • TensorFlow • MediaPipe • OpenCV
 
-Python • Flask • TensorFlow • OpenCV
-
-</td>
-
-<td width="50%">
+---
 
 ### 🚜 Smart Agricultural Rover
 
-An autonomous IoT-based rover for precision pesticide spraying with intelligent path planning.
+An autonomous IoT-based rover for precision pesticide spraying with intelligent path planning and Android integration.
 
-**Tech Stack**
+**Tech Stack:** Java • Flask • ESP32 • MQTT • SQLite
 
-Java • Flask • ESP32 • MQTT • SQLite
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="2">
+---
 
 ### 🍀 GreenChain
 
-A full-stack food redistribution platform connecting food donors with NGOs through a modern web platform.
+A food redistribution platform connecting food donors with NGOs through a modern web application.
 
-**Tech Stack**
-
-Next.js • React • Node.js • Express • Supabase
-
-</td>
-</tr>
-
-</table>
+**Tech Stack:** Next.js • React • Node.js • Express • Supabase
 
 ---
 
-# 📊 GitHub Statistics
+## 🌱 Current Focus
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SounjnaBhat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SounjnaBhat&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Current Focus
-
-- 🤖 Developing AI-powered applications
-- 🌐 Building scalable full-stack solutions
-- 📚 Strengthening Data Structures & Algorithms
-- ☁️ Exploring Cloud Technologies
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Full Stack Development
+- 📚 Data Structures & Algorithms
+- ☁️ Cloud Computing
 
 ---
 
@@ -154,7 +109,5 @@ Next.js • React • Node.js • Express • Supabase
 ### 💡 Quote
 
 *"Building intelligent solutions that solve real-world problems through AI and Full Stack Development."*
-
-⭐ Thank you for visiting my profile!
 
 </div>
