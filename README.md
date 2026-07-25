@@ -9,7 +9,6 @@
 </div>
 
 <p align="center"> <a href="https://github.com/SounjnaBhat"> <img src="https://komarev.com/ghpvc/?username=suhasshetti02&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views" /> </a> </p>
----
 
 # 👩‍💻 About Me
 
